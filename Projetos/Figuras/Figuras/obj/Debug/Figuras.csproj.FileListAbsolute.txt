@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\C#\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\diego\Desktop\C#\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\diego\Desktop\C#\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\diego\Desktop\C#\Figuras\Figuras\obj\Debug\Figuras.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\C#\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\C#\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\diego\Desktop\C#\Figuras\Figuras\obj\Debug\Figuras.pdb

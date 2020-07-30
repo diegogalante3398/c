@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\C#\Contas\Contas\bin\Debug\Contas.exe.config
+C:\Users\diego\Desktop\C#\Contas\Contas\bin\Debug\Contas.exe
+C:\Users\diego\Desktop\C#\Contas\Contas\bin\Debug\Contas.pdb
+C:\Users\diego\Desktop\C#\Contas\Contas\obj\Debug\Contas.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\C#\Contas\Contas\obj\Debug\Contas.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\C#\Contas\Contas\obj\Debug\Contas.exe
+C:\Users\diego\Desktop\C#\Contas\Contas\obj\Debug\Contas.pdb

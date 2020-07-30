@@ -1,0 +1,13 @@
+C:\Users\diego\Desktop\C#\Lampada\Lampada\bin\Debug\netcoreapp3.1\Lampada.exe
+C:\Users\diego\Desktop\C#\Lampada\Lampada\bin\Debug\netcoreapp3.1\Lampada.deps.json
+C:\Users\diego\Desktop\C#\Lampada\Lampada\bin\Debug\netcoreapp3.1\Lampada.runtimeconfig.json
+C:\Users\diego\Desktop\C#\Lampada\Lampada\bin\Debug\netcoreapp3.1\Lampada.runtimeconfig.dev.json
+C:\Users\diego\Desktop\C#\Lampada\Lampada\bin\Debug\netcoreapp3.1\Lampada.dll
+C:\Users\diego\Desktop\C#\Lampada\Lampada\bin\Debug\netcoreapp3.1\Lampada.pdb
+C:\Users\diego\Desktop\C#\Lampada\Lampada\obj\Debug\netcoreapp3.1\Lampada.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\C#\Lampada\Lampada\obj\Debug\netcoreapp3.1\Lampada.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\C#\Lampada\Lampada\obj\Debug\netcoreapp3.1\Lampada.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\C#\Lampada\Lampada\obj\Debug\netcoreapp3.1\Lampada.AssemblyInfo.cs
+C:\Users\diego\Desktop\C#\Lampada\Lampada\obj\Debug\netcoreapp3.1\Lampada.dll
+C:\Users\diego\Desktop\C#\Lampada\Lampada\obj\Debug\netcoreapp3.1\Lampada.pdb
+C:\Users\diego\Desktop\C#\Lampada\Lampada\obj\Debug\netcoreapp3.1\Lampada.genruntimeconfig.cache

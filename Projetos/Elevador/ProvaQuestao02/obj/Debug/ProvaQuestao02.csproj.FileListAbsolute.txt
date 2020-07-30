@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\C#\ProvaQuestao02\ProvaQuestao02\bin\Debug\ProvaQuestao02.exe.config
+C:\Users\diego\Desktop\C#\ProvaQuestao02\ProvaQuestao02\bin\Debug\ProvaQuestao02.exe
+C:\Users\diego\Desktop\C#\ProvaQuestao02\ProvaQuestao02\bin\Debug\ProvaQuestao02.pdb
+C:\Users\diego\Desktop\C#\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\C#\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\C#\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.exe
+C:\Users\diego\Desktop\C#\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.pdb

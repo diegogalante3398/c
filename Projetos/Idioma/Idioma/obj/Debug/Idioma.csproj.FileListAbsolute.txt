@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\C#\Idioma\Idioma\bin\Debug\Idioma.exe.config
+C:\Users\diego\Desktop\C#\Idioma\Idioma\bin\Debug\Idioma.exe
+C:\Users\diego\Desktop\C#\Idioma\Idioma\bin\Debug\Idioma.pdb
+C:\Users\diego\Desktop\C#\Idioma\Idioma\obj\Debug\Idioma.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\C#\Idioma\Idioma\obj\Debug\Idioma.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\C#\Idioma\Idioma\obj\Debug\Idioma.exe
+C:\Users\diego\Desktop\C#\Idioma\Idioma\obj\Debug\Idioma.pdb

@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\C#\AtividadeSlide1\AtividadeSlide1\bin\Debug\AtividadeSlide1.exe.config
+C:\Users\diego\Desktop\C#\AtividadeSlide1\AtividadeSlide1\bin\Debug\AtividadeSlide1.exe
+C:\Users\diego\Desktop\C#\AtividadeSlide1\AtividadeSlide1\bin\Debug\AtividadeSlide1.pdb
+C:\Users\diego\Desktop\C#\AtividadeSlide1\AtividadeSlide1\obj\Debug\AtividadeSlide1.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\C#\AtividadeSlide1\AtividadeSlide1\obj\Debug\AtividadeSlide1.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\C#\AtividadeSlide1\AtividadeSlide1\obj\Debug\AtividadeSlide1.exe
+C:\Users\diego\Desktop\C#\AtividadeSlide1\AtividadeSlide1\obj\Debug\AtividadeSlide1.pdb
